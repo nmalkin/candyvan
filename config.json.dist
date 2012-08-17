@@ -1,0 +1,14 @@
+{
+    "smtp": {
+        "service": "Gmail",
+        "auth": {
+            "user": "your.username.here@gmail.com",
+            "pass": "..."
+        }
+    },
+    "message": {
+        "from": "Your Friend <friend@example.com>",
+        "subject": "SPAM SPAM SPAM",
+        "text": "Spam, Spam, Spam, Spam... lovely Spam! wonderful Spam!"
+    }
+}
